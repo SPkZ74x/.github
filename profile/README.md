@@ -1,12 +1,3 @@
-## Hi there 👋
+Hello there, fellow internet traveler, you seems to discovered SPKZ Design Co's Organization GitHub page. This contains all Software and stuff written by N.I. and the boys. Feel free to browse around.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+I also have a wiki of myself here for more canonical information: https://wiki.spkz.monolidthz.com/
